@@ -1,1 +1,1 @@
-# Django-AssetManagement
+# Django-AssetManager
